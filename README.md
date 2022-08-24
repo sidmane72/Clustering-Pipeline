@@ -1,7 +1,7 @@
 # Clustering-Pipeline
 
 This is complete pipeline for clustering problems.
-This Pipeline is divided 5 parts.
+This Pipeline is divided 7 parts.
 
   1) Data loading and initial field analysis.
   2) Scaling data with  scaling techniques.
